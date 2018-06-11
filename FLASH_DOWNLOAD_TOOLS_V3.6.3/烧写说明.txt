@@ -1,0 +1,3 @@
+1. 先 erase
+2. 参考 配置截图.png 里的配置
+3. 在NodeMCU上按住flash按钮，按一下reset按钮，然后再烧写固件
